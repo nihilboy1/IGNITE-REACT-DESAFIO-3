@@ -20,7 +20,7 @@ Agora, vamos a função de addProduct("id"){
         -
         agora fazemos um teste. Se a variavel "j" > "p" devemos enviar um erro com o toastify pois não temos produtos suficientes em estoque e logo apos, retornamos para o código não seguir
         -
-        Teste seguinte: Se a a variavel "y" for verdadeira, "y".amount = "j" / Senão: Definimos uma variavel "b" que recebe o retorno de uma consulta .get em /products/"id".
+        Teste seguinte: Se a variavel "y" for verdadeira, "y".amount = "j" / Senão: Definimos uma variavel "b" que recebe o retorno de uma consulta .get em /products/"id".
         agora, definimos uma variavel "t" que recebe um objeto com o spread operator de "b", adicionando a propriedade "amount" com valor "1"
         agora, damos um "x".push("t")
         -
